@@ -3,7 +3,7 @@
 ### Hi there, I'm MDuy Tran. 👋
 ## I'm senior student!
 - 🌱 I’m currently learning Embedded System and Full-Stack Development.
-- 👯 I’m looking to collaborate with other developers.
+- 👯 I’m looking foward to collaborate with other developers.
 
 ### Languages and Tools:
 
