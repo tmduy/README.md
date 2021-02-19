@@ -2,7 +2,7 @@
 
 ### Hi there, I'm MDuy Tran. 👋
 ## I'm senior student!
-- 🌱 I’m currently learning Embedded System and Full-Stack Development.
+- 🌱 I’m currently learning Embedded System and Artificial Intelligence.
 - 👯 I’m looking foward to collaborate with other developers.
 
 ### Languages and Tools:
