@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# README.md
-=======
 ### Hi there, I'm Duy Tran. 👋
 ## I'm Automotive Software Engineer
 - 🌱 I’m currently working and researching Embedded Systems and Automotive Software Engineering.
@@ -14,4 +11,3 @@
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
 <br />
 <br />
->>>>>>> 2cbfe1b (Update README)
